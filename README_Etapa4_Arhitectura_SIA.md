@@ -106,6 +106,7 @@ proiect-rn-stefan-radu/
 │   ├── data_acquisition/
 │   ├── preprocessing/
 │   ├── neural_network/
+│   │   └── train_maintenance_predict.py
 │   └── app/
 ├── docs/
 │   └── screenshots/
